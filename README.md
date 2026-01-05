@@ -69,4 +69,6 @@ Desain mencakup:
 4. Output HIGH akan muncul pada **LED0** jika pola **101** muncul dalam urutan input.  
 
 ### **Flowchart**
+# Lampiran (Kode Verilog)
 
+# Link Video Implementasi
